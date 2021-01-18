@@ -52,28 +52,26 @@ var selected = {
   originalColor: new Cesium.Color()
 }; // Here i will Read all the rest of the properties
 //so modify here to read another model's properties outside batch table
-
-var json_prop; // read JSON object from file
-
-function readFile(file) {
-  var rawFile = new XMLHttpRequest();
-  rawFile.open("GET", file, false);
-
-  rawFile.onreadystatechange = function () {
-    if (rawFile.readyState === 4) {
-      if (rawFile.status === 200 || rawFile.status == 0) {
-        var allText = rawFile.responseText;
-        var value = JSON.parse(allText); // now display on browser :)
-
-        json_prop = value;
-      }
-    }
-  };
-
-  rawFile.send(null);
-}
-
-readFile("./Source/redes_Mariel/redes.json"); //console.log(json_prop);
+//var json_prop;
+// read JSON object from file
+//function readFile(file) {
+//    var rawFile = new XMLHttpRequest();
+//    rawFile.open("GET", file, false);
+//    rawFile.onreadystatechange = function ()
+//    {
+//        if(rawFile.readyState === 4) {
+//            if(rawFile.status === 200 || rawFile.status == 0) {
+//                var allText = rawFile.responseText;
+//                var value = JSON.parse(allText);
+//                // now display on browser :)
+//                json_prop=value;
+//            }
+//        }
+//    }
+//    rawFile.send(null);
+//}
+//readFile("./Source/redes_Mariel/redes.json");
+//console.log(json_prop);
 // reader.readAsText("D:/Cibernetica/Geocuba/Geocuba_work/CONTROL DE VERSIONES GIT/project-mariel-network/cesium 1.67/Pagina de Cesium/Source/redes_Mariel/redes.json", 'UTF-8');
 //=====================================here is the rest of the code changed a little less
 // An entity object which will hold info about the currently selected feature for infobox display
@@ -167,42 +165,16 @@ if (Cesium.PostProcessStageLibrary.isSilhouetteSupported(viewer.scene)) {
     selectedEntity.description = 'Loading <div class="cesium-infoBox-loading"></div>';
     viewer.selectedEntity = selectedEntity;
     var propertyNames = pickedFeature.getPropertyNames();
-    var string_description = "";
-    count = 0;
-    var name11 = "";
-    var bool0 = false;
-
-    for (var i = 0; i < featureName.length; i++) {
-      if (featureName[i] == ":") {
-        bool0 = true;
-      } else if (!isNaN(featureName[i]) && bool0) {
-        name11 += featureName[i]; // console.log(code_name1);
-      } else {
-        bool0 = false;
-      }
-    } //console.log(name11)
-
-
-    var strin2 = "";
-
-    for (var id_j in json_prop) {
-      count++; //console.log(json_prop[id_j]);
-
-      if (count > 4) break;
-
-      if (Compara(json_prop[id_j]['Name'], name11) == 1) {
-        strin2 = json_prop[id_j]["Name"];
-        console.log(strin2);
-      }
-    }
+    var string_description = ""; //console.log(name11)
 
     for (var i = 0; i < propertyNames.length; ++i) {
       var propertyName = propertyNames[i];
       var propertyString = pickedFeature.getProperty(propertyName);
-      string_description += '<tr><th>' + propertyName + '</th><td>' + propertyString + '</td></tr>';
+      if (propertyString !== "!!" && propertyString != null) string_description += '<tr><th>' + propertyName + '</th><td>' + propertyString + '</td></tr>';
     }
 
-    selectedEntity.description = '<table class="cesium-infoBox-defaultTable"><tbody>' + '<tr><th>BIN</th><td>' + strin2 + '</td></tr>' + //'<tr><th>DOITT ID</th><td>' + pickedFeature.getProperty('DOITT_ID') + '</td></tr>' +
+    selectedEntity.description = '<table class="cesium-infoBox-defaultTable"><tbody>' + //'<tr><th>BIN</th><td>' + strin2 + '</td></tr>' +
+    //'<tr><th>DOITT ID</th><td>' + pickedFeature.getProperty('DOITT_ID') + '</td></tr>' +
     //'<tr><th>SOURCE ID</th><td>' + pickedFeature.getProperty('SOURCE_ID') + '</td></tr>' +
     //'<tr><th>Longitude</th><td>' + pickedFeature.getProperty('longitude') + '</td></tr>' +
     //'<tr><th>Latitude</th><td>' + pickedFeature.getProperty('latitude') + '</td></tr>' +

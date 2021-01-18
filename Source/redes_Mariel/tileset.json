@@ -37,7 +37,7 @@
     "geometricError": 0,
     "refine": "ADD",
     "content": {
-      "url": "redes.b3dm"
+      "uri": "redes_withprop.b3dm"
     }
   }
 }
