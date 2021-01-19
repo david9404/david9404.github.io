@@ -46,7 +46,7 @@
             30.289999395608902
           ]
         },
-        "geometricError": 100,
+        "geometricError": 300,
         "refine": "ADD",
         "content": {
           "uri": "Batchedtuberias_mariel_only1_part2/tileset.json"
@@ -63,7 +63,7 @@
             30.249412387609482
           ]
         },
-        "geometricError": 500,
+        "geometricError": 50,
         "refine": "ADD",
         "content": {
           "uri": "Batchedtuberias_mariel_only1_part3/tileset.json"
@@ -80,7 +80,7 @@
             31.280001878738403
           ]
         },
-        "geometricError": 50,
+        "geometricError": 500,
         "refine": "ADD",
         "content": {
           "uri": "Batchedtuberias_mariel_out1/tileset.json"
