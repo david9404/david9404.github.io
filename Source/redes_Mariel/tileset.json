@@ -1,29 +1,10 @@
 {
   "asset": {
     "version": "0.0",
-    "tilesetVersion": "1.0.0-obj23dtiles",
-    "gltfUpAxis": "Y"
+    "tilesetVersion": "1.0.0-obj23dtiles"
   },
-  "geometricError": 200,
+  "geometricError": 500,
   "root": {
-    "transform": [
-      0.9686356343768792,
-      0.24848542777253732,
-      0,
-      0,
-      -0.1598646074644932,
-      0.6231776118780286,
-      0.7655670913344046,
-      0,
-      0.19023226617880667,
-      -0.7415555651727632,
-      0.6433560667824462,
-      0,
-      1215011.9602611838,
-      -4736309.454655107,
-      4081602.1009835,
-      1
-    ],
     "boundingVolume": {
       "region": [
         -1.3196866252688622,
@@ -31,13 +12,80 @@
         -1.3192807197989207,
         0.6991158938304509,
         0,
-        32.48000183701515
+        31.280001878738403
       ]
     },
-    "geometricError": 0,
     "refine": "ADD",
-    "content": {
-      "uri": "redes_withprop.b3dm"
-    }
+    "geometricError": 500,
+    "children": [
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196841813373439,
+            0.6989528696383086,
+            -1.319280733418179,
+            0.6991137605673087,
+            0,
+            30.498249158263206
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "Batchedtuberias_mariel_only1_part1/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196866252688622,
+            0.6989408699223085,
+            -1.3192807197989207,
+            0.6991137605673086,
+            0,
+            30.289999395608902
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "Batchedtuberias_mariel_only1_part2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196863037405364,
+            0.6989407927114508,
+            -1.3192810126582895,
+            0.6991158938304509,
+            0,
+            30.249412387609482
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "Batchedtuberias_mariel_only1_part3/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196864386593183,
+            0.6989408699223085,
+            -1.3192807379852753,
+            0.6991137605673086,
+            0,
+            31.280001878738403
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "Batchedtuberias_mariel_out1/tileset.json"
+        }
+      }
+    ]
   }
 }
