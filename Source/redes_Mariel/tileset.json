@@ -7,12 +7,12 @@
   "root": {
     "boundingVolume": {
       "region": [
-        -1.3196866252688622,
-        0.6989407927114508,
-        -1.3192807197989207,
-        0.6991158938304509,
+        -1.3196866252672996,
+        0.6989408902947192,
+        -1.319280611724523,
+        0.6991158937919033,
         0,
-        31.280001878738403
+        31.95604357123375
       ]
     },
     "refine": "ADD",
@@ -21,69 +21,205 @@
       {
         "boundingVolume": {
           "region": [
-            -1.3196841813373439,
-            0.6989528696383086,
-            -1.319280733418179,
-            0.6991137605673087,
+            -1.3194376831284709,
+            0.6989632213284485,
+            -1.319364775788764,
+            0.6989843787224486,
             0,
-            30.498249158263206
+            27.660283744335175
           ]
         },
-        "geometricError": 200,
+        "geometricError": 80,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedtuberias_mariel_only1_part1/tileset.json"
+          "uri": "BatchedRedes_Part10_LOD2/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.3196866252688622,
-            0.6989408699223085,
-            -1.3192807197989207,
-            0.6991137605673086,
+            -1.3193648467373429,
+            0.6989814514364147,
+            -1.3193007456212522,
+            0.6990266082624147,
             0,
-            30.289999395608902
+            26.84591991454363
           ]
         },
-        "geometricError": 300,
+        "geometricError": 80,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedtuberias_mariel_only1_part2/tileset.json"
+          "uri": "BatchedRedes_Part11_LOD2/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.3196863037405364,
-            0.6989407927114508,
-            -1.3192810126582895,
-            0.6991158938304509,
+            -1.3193666260017052,
+            0.6990083660504998,
+            -1.319280611724523,
+            0.6990680488484997,
             0,
-            30.249412387609482
+            13.597829312086105
           ]
         },
-        "geometricError": 50,
+        "geometricError": 80,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedtuberias_mariel_only1_part3/tileset.json"
+          "uri": "BatchedRedes_Part12_LOD2/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.3196864386593183,
-            0.6989408699223085,
-            -1.3192807379852753,
-            0.6991137605673086,
+            -1.3196696362435176,
+            0.6989408902947192,
+            -1.3195635519683262,
+            0.6990556770517191,
             0,
-            31.280001878738403
+            29.301714297384024
           ]
         },
-        "geometricError": 500,
+        "geometricError": 80,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedtuberias_mariel_out1/tileset.json"
+          "uri": "BatchedRedes_Part1_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196866252672996,
+            0.6990454744059034,
+            -1.319568253238225,
+            0.6991158937919033,
+            0,
+            16.33049964904785
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part2_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3196037950888415,
+            0.6990317301793818,
+            -1.3194755928566602,
+            0.6991111493523818,
+            0,
+            7.608000189065933
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part3_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3195939635482619,
+            0.6989657972723144,
+            -1.3194891080484585,
+            0.6990799524653144,
+            0,
+            31.95604357123375
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part4_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3195923121375885,
+            0.6989532968518047,
+            -1.3195151040840225,
+            0.6990251372568047,
+            0,
+            30.060126960277557
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part5_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3195476686255232,
+            0.6990242901442209,
+            -1.3193213691581744,
+            0.699102604080221,
+            0,
+            13.386936232447624
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part6_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3195199546806178,
+            0.6989864654971762,
+            -1.3193344095969817,
+            0.6990590953571763,
+            0,
+            18.103945910930634
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part7_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3195215422113205,
+            0.6989631939210996,
+            -1.3194338895669537,
+            0.6990023508890997,
+            0,
+            28.620001077651978
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part8_LOD2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.3194621609631936,
+            0.699014992249299,
+            -1.3193458368930995,
+            0.6990893589102989,
+            0,
+            17.5962722748518
+          ]
+        },
+        "geometricError": 80,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedRedes_Part9_LOD2/tileset.json"
         }
       }
     ]

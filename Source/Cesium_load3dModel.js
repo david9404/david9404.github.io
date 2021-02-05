@@ -1,6 +1,6 @@
-
 var viewer = new Cesium.Viewer('cesiumContainer', {
-    
+   // imageryProvider : new Cesium.TileMapServiceImageryProvider({
+    //    url : Cesium.buildModuleUrl('Assets/Textures/NaturalEarthII')}),
         // Wedgets
         animation: false,
         timeline: false,
@@ -25,7 +25,7 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
     //var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
 
     tileset = new Cesium.Cesium3DTileset({
-        url: './Source/redes_Mariel/tileset.json'
+        url: './Source/redes_mariel/tileset.json'
     });
     //inspectorViewModel.tileset = tileset;
     scene.primitives.add(tileset);
@@ -34,7 +34,8 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
         var range = Math.max(100.0 - boundingSphere.radius, 0.0); // Set a minimum offset of 100 meters
         viewer.camera.viewBoundingSphere(boundingSphere, new Cesium.HeadingPitchRange(0, -2.0, range));
         viewer.camera.lookAtTransform(Cesium.Matrix4.IDENTITY);
-        viewer.zoomTo(tileset, new Cesium.HeadingPitchRange(0, -0.5, 0));
+        viewer.zoomTo(tileset, new Cesium.HeadingPitchRange(0, -0.2, 0));
+        
     }).otherwise(function(error) {
         throw(error);
     });
@@ -198,9 +199,9 @@ function Compara(name1,name2)
                 ,"maxPoint","minPoint","ID de tipo","Grosor de aislamiento","Elevación invertida",
             "Nombre de sistema","Segmento de tubería","Serie/Tipo","Tipo de conexión","Tramo",
             "Aspereza relativa","Aspereza","Estado de flujo","Fase de creación","Justificación horizontal",
-            "Justificación vertical"];
+            "Justificación vertical","name"];
             //ESTAS SON LAS PROPIEDADES QUE SALEN EN LA PLANILLA PARA EL LEVANTAMIENTO
-        var proptoshow=["name","Tipo","Categoría","Diámetro exterior","Diámetro interno","Longitud",
+        var proptoshow=["Tipo","Categoría","Diámetro exterior","Diámetro interno","Longitud",
             "Clasificación de sistema","Diámetro","Material","Pendiente","Elevación inferior",
             "Elevación intermedia","Elevación intermedia final","Elevación intermedia inicial",
             "Elevación superior","Ancho","Largo","Profundidad","Ancho del Muro","Tipo de Material",
@@ -227,7 +228,9 @@ function Compara(name1,name2)
                                      string_description+
                                      '</tbody></table>';
     }, Cesium.ScreenSpaceEventType.LEFT_CLICK);
-} else {
+} 
+else {
+
     // Silhouettes are not supported. Instead, change the feature color.
 
     // Information about the currently highlighted feature
@@ -322,3 +325,145 @@ function Compara(name1,name2)
         selectedEntity.show=true;
     }, Cesium.ScreenSpaceEventType.LEFT_CLICK);
 }
+
+var scene = viewer.scene;
+var canvas = viewer.canvas;
+canvas.setAttribute('tabindex', '0'); // needed to put focus on the canvas
+canvas.onclick = function() {
+    canvas.focus();
+};
+var ellipsoid = scene.globe.ellipsoid;
+
+// disable the default event handlers
+//scene.screenSpaceCameraController.enableRotate = false;
+//scene.screenSpaceCameraController.enableTranslate = false;
+//scene.screenSpaceCameraController.enableZoom = false;
+//scene.screenSpaceCameraController.enableTilt = false;
+//scene.screenSpaceCameraController.enableLook = false;
+
+var startMousePosition;
+var mousePosition;
+var flags = {
+    looking : false,
+    moveForward : false,
+    moveBackward : false,
+    moveUp : false,
+    moveDown : false,
+    moveLeft : false,
+    moveRight : false,
+	align : false,
+	restart_view : false
+	
+};
+
+var handler = new Cesium.ScreenSpaceEventHandler(canvas);
+
+handler.setInputAction(function(movement) {
+    flags.looking = true;
+    mousePosition = startMousePosition = Cesium.Cartesian3.clone(movement.position);
+}, Cesium.ScreenSpaceEventType.LEFT_DOWN);
+
+handler.setInputAction(function(movement) {
+    mousePosition = movement.endPosition;
+}, Cesium.ScreenSpaceEventType.MOUSE_MOVE);
+
+handler.setInputAction(function(position) {
+    flags.looking = false;
+}, Cesium.ScreenSpaceEventType.LEFT_UP);
+
+function getFlagForKeyCode(keyCode) {
+    switch (keyCode) {
+    case 'W'.charCodeAt(0):
+        return 'moveForward';
+    case 'S'.charCodeAt(0):
+        return 'moveBackward';
+    case 'Q'.charCodeAt(0):
+        return 'moveUp';
+    case 'E'.charCodeAt(0):
+        return 'moveDown';
+    case 'D'.charCodeAt(0):
+        return 'moveRight';
+    case 'A'.charCodeAt(0):
+        return 'moveLeft';
+	case 'C'.charCodeAt(0):
+        return 'align';
+	case 'X'.charCodeAt(0):
+        return 'restart_view';
+    default:
+        return undefined;
+    }
+}
+
+document.addEventListener('keydown', function(e) {
+    var flagName = getFlagForKeyCode(e.keyCode);
+    if (typeof flagName !== 'undefined') {
+        flags[flagName] = true;
+    }
+}, false);
+
+document.addEventListener('keyup', function(e) {
+    var flagName = getFlagForKeyCode(e.keyCode);
+    if (typeof flagName !== 'undefined') {
+        flags[flagName] = false;
+    }
+}, false);
+
+
+viewer.clock.onTick.addEventListener(function(clock) {
+    var camera = viewer.camera;
+
+    if (flags.looking) {
+        var width = canvas.clientWidth;
+        var height = canvas.clientHeight;
+
+        // Coordinate (0.0, 0.0) will be where the mouse was clicked.
+        var x = (mousePosition.x - startMousePosition.x) / width;
+        var y = -(mousePosition.y - startMousePosition.y) / height;
+
+        var lookFactor = 0.05;
+        camera.lookRight(x * lookFactor);
+        camera.lookUp(y * lookFactor);
+    }
+
+    // Change movement speed based on the distance of the camera to the surface of the ellipsoid.
+    var cameraHeight = ellipsoid.cartesianToCartographic(camera.position).height;
+    var moveRate = cameraHeight / 10.0;
+
+    if (flags.moveForward) {
+        camera.moveForward(moveRate);
+		//startTimer();
+    }
+    if (flags.moveBackward) {
+        camera.moveBackward(moveRate);
+		//startTimer();
+    }
+    if (flags.moveUp) {
+        camera.moveUp(moveRate);
+		//startTimer();
+    }
+    if (flags.moveDown) {
+        camera.moveDown(moveRate);
+		//startTimer();
+    }
+    if (flags.moveLeft) {
+        camera.moveLeft(moveRate);
+		//startTimer();
+    }
+    if (flags.moveRight) {
+        camera.moveRight(moveRate);
+		//startTimer();
+    }
+	if(flags.align)	{
+	var direction = camera.direction;
+	var x = direction.x;
+	var y = direction.y;
+	var z = direction.z;
+	//camera.direction=(direction.x,0,direction.z);
+	camera.direction = Cesium.Cartesian3.negate(Cesium.Cartesian3.UNIT_Z, new Cesium.Cartesian3());
+	//console.log(direction.x +", " + direction.y + ", " + direction.z);
+	}
+	if(flags.restart_view)	{
+	viewer.zoomTo(tileset, new Cesium.HeadingPitchRange(0, -0.5, 0));
+	lastTotalLoaded=0;
+	}
+});
