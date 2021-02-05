@@ -25,7 +25,7 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
     //var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
 
     tileset = new Cesium.Cesium3DTileset({
-        url: './Source/redes_mariel/tileset.json'
+        url: './Source/redes_Mariel/tileset.json'
     });
     //inspectorViewModel.tileset = tileset;
     scene.primitives.add(tileset);
