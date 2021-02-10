@@ -4,7 +4,7 @@
     "tilesetVersion": "1.0.0-obj23dtiles",
     "gltfUpAxis": "Y"
   },
-  "geometricError": 10,
+  "geometricError": 30,
   "root": {
     "transform": [
       0.9686356343768792,
