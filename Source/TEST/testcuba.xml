@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><OruxTracker xmlns="http://oruxtracker.com/app/res/calibration" versionCode="3.0"><MapCalibration layers="true" layerLevel="0">
+<MapName><![CDATA[testcuba_map]]></MapName><OruxTracker xmlns="http://oruxtracker.com/app/res/calibration" versionCode="2.1">
+<MapCalibration layers="false" layerLevel="13"><MapName><![CDATA[testcuba_map 13]]></MapName>
+<MapChunks xMax="3" yMax="27" datum="WGS84" projection="Mercator" img_height="256" img_width="256" file_name="testcuba_map 13" />
+<MapDimensions height="6912" width="768" />
+<MapBounds minLat="23.0797317602314" maxLat="24.1668020829931" minLon="-82.44140625" maxLon="-82.3095703125" />
+<CalibrationPoints>
+<CalibrationPoint corner="TL" lon="-82.44140625" lat="24.1668020829931" />
+<CalibrationPoint corner="BR" lon="-82.3095703125" lat="23.0797317602314" />
+<CalibrationPoint corner="TR" lon="-82.3095703125" lat="24.1668020829931" />
+<CalibrationPoint corner="BL" lon="-82.44140625" lat="23.0797317602314" />
+</CalibrationPoints></MapCalibration></OruxTracker></MapCalibration></OruxTracker>

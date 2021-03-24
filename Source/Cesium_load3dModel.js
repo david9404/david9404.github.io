@@ -1,6 +1,9 @@
 var viewer = new Cesium.Viewer('cesiumContainer', {
     imageryProvider : new Cesium.TileMapServiceImageryProvider({
-        url : Cesium.buildModuleUrl('Assets/Textures/NaturalEarthII')}),
+       url: '//mt1.google.cn/maps/vt?lyrs=s,h&gl=CN&x={x}&y={y}&z={z}'
+       // url : Cesium.buildModuleUrl('Assets/Textures/NaturalEarthII')
+
+    }),
         // Wedgets
         animation: false,
         timeline: false,
@@ -31,21 +34,28 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
     //times: times,
     //credit : new Cesium.Credit('NASA Global Imagery Browse Services for EOSDIS')
     //});
-    //viewer.imageryLayers.addImageryProvider(weather);
+    //viewer.imageryLayers.addImageryProvider(new Cesium.WebMapTileServiceImageryProvider({url : './Source/orto2/tilemapresource.xml'}));
     var scene = viewer.scene;
-    //viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
-    //var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
+    
 
     tileset = new Cesium.Cesium3DTileset({
         url: './Source/redes_Mariel/tileset.json'
+        //url: './Source/matanzas_model/tileset.json'
     });
-    //inspectorViewModel.tileset = tileset;
+    viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
+    var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
+    inspectorViewModel.tileset = tileset;
     scene.primitives.add(tileset);
     tileset.readyPromise.then(function(tileset) {
         var boundingSphere = tileset.boundingSphere;
         var range = Math.max(100.0 - boundingSphere.radius, 0.0); // Set a minimum offset of 100 meters
         viewer.camera.viewBoundingSphere(boundingSphere, new Cesium.HeadingPitchRange(0, -2.0, range));
         viewer.camera.lookAtTransform(Cesium.Matrix4.IDENTITY);
+        var cartographic = Cesium.Cartographic.fromCartesian(tileset.boundingSphere.center);
+        var surface = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 27.0);
+        var offset = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 35);
+        var translation = Cesium.Cartesian3.subtract(offset, surface, new Cesium.Cartesian3());
+        tileset.modelMatrix = Cesium.Matrix4.fromTranslation(translation);
         viewer.zoomTo(tileset, new Cesium.HeadingPitchRange(0, -0.5, 0));
         
     }).otherwise(function(error) {
