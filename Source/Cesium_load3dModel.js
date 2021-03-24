@@ -42,7 +42,7 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
         url: './Source/redes_Mariel/tileset.json'
         //url: './Source/matanzas_model/tileset.json'
     });
-    viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
+    //viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
     var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
     inspectorViewModel.tileset = tileset;
     scene.primitives.add(tileset);
