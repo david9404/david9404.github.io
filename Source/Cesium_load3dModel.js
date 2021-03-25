@@ -43,8 +43,9 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
         //url: './Source/matanzas_model/tileset.json'
     });
     //viewer.extend(Cesium.viewerCesium3DTilesInspectorMixin);
-    var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
-    inspectorViewModel.tileset = tileset;
+    //var inspectorViewModel = viewer.cesium3DTilesInspector.viewModel;
+    //inspectorViewModel.tileset = tileset;
+    
     scene.primitives.add(tileset);
     tileset.readyPromise.then(function(tileset) {
         var boundingSphere = tileset.boundingSphere;
