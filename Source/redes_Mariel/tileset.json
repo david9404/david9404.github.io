@@ -7,12 +7,12 @@
   "root": {
     "boundingVolume": {
       "region": [
-        -1.4448182494453918,
-        0.4017115623193108,
-        -1.444480502883902,
+        -1.444818249445392,
+        0.4017115050182924,
+        -1.4444805576853308,
         0.40188658408806094,
         -0.15000000596046448,
-        28.119325637817383
+        29.850000381469727
       ]
     },
     "refine": "ADD",
@@ -21,1701 +21,3418 @@
       {
         "boundingVolume": {
           "region": [
-            -1.4447908826231834,
-            0.40172580972702576,
-            -1.4447077562893538,
-            0.40181959698102576,
-            0.3674269914627075,
-            1.3674269914627075
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject10/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4448133680957689,
-            0.40186181725029235,
-            -1.444784921174151,
-            0.4018813957342924,
+            -1.4447939015232756,
+            0.40179663025870244,
+            -1.4447930498190356,
+            0.40179868284170245,
             0.3817499876022339,
             1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject0/tileset.json"
+          "uri": "BatchedobjectLOD0element10/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447877732970948,
-            0.40187559150540003,
-            -1.4447523424007083,
-            0.40188443340140007,
+            -1.4445740487461611,
+            0.40178891968679575,
+            -1.4445646799995204,
+            0.4017957089997958,
+            15.306288719177246,
+            16.306288719177246
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element103/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445524379986832,
+            0.40183741869636513,
+            -1.4445519269761393,
+            0.4018386818243651,
+            3.5462889671325684,
+            4.546288967132568
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element106/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445484911105748,
+            0.4017888906989949,
+            -1.4445457656570067,
+            0.40179568001199495,
+            15.666288375854492,
+            16.666288375854492
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element107/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445459492641464,
+            0.4017858193220046,
+            -1.4445457789232983,
+            0.40178597721300463,
+            16.39128875732422,
+            17.39128875732422
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element108/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447889672659406,
+            0.401784952058659,
+            -1.4447887969250925,
+            0.40178510994965905,
+            22.98628807067871,
+            23.98628807067871
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element11/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445395323089805,
+            0.40178893887386735,
+            -1.4445308449257317,
+            0.4017957281868674,
+            15.736289024353027,
+            16.736289024353027
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element111/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445358422837256,
+            0.4017858064374668,
+            -1.4445356719428775,
+            0.40178596432846686,
+            16.246288299560547,
+            17.246288299560547
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element112/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445374777388498,
+            0.40175306069789635,
+            -1.4445345819444335,
+            0.4017555869538963,
             0.3817499876022339,
             1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject1/tileset.json"
+          "uri": "BatchedobjectLOD0element113/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447547239989633,
-            0.4018614108814149,
-            -1.4447090726516965,
-            0.40187735787241496,
-            0.21799999475479126,
-            1.2179999947547913
+            -1.444525365656179,
+            0.40183346743168774,
+            -1.4445251953153309,
+            0.4018336253226878,
+            5.406289100646973,
+            6.406289100646973
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject11/tileset.json"
+          "uri": "BatchedobjectLOD0element114/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446799911262056,
-            0.4017338847376499,
-            -1.4446328067113063,
-            0.40179372542664993,
-            0.3817499876022339,
-            1.3817499876022339
+            -1.444521854351577,
+            0.40178577496334533,
+            -1.444521684010729,
+            0.4017859328543454,
+            15.60628890991211,
+            16.60628890991211
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject12/tileset.json"
+          "uri": "BatchedobjectLOD0element116/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446013274231666,
-            0.40173615218501374,
-            -1.4445849747017576,
-            0.4017424678250137,
-            0.3817499876022339,
-            1.3817499876022339
+            -1.4447983946296286,
+            0.40176259811801396,
+            -1.4447975429253885,
+            0.4017674927390139,
+            23.44999885559082,
+            24.44999885559082
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject14/tileset.json"
+          "uri": "BatchedobjectLOD0element12/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446369833266717,
-            0.4017338459202092,
-            -1.4446012117485894,
-            0.40173763530420925,
-            0.3799999952316284,
-            1.3799999952316284
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject13/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445374420363064,
-            0.40175246664071834,
-            -1.4445086544329924,
-            0.40179446564671834,
-            0.3759329915046692,
-            1.3759329915046692
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject15/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445770990367321,
-            0.40174611634641927,
-            -1.4445554657490345,
-            0.40175448456941926,
-            0.3817499876022339,
-            1.3817499876022339
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject17/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444585031988017,
-            0.40174236047956396,
-            -1.4445770259681605,
-            0.40174630775456394,
-            0.33000001311302185,
-            1.3300000131130219
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject16/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445555380482447,
-            0.4017522314714023,
-            -1.44454480657482,
-            0.40175507350940237,
-            0.3199999928474426,
-            1.3199999928474426
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject18/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445505890144859,
-            0.40175227124289636,
-            -1.44452452686474,
-            0.40175558695389635,
-            0.3817499876022339,
-            1.3817499876022339
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject19/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444512801750231,
-            0.40179216841169096,
-            -1.4444932125527095,
-            0.401815062606691,
+            -1.4445129311485583,
+            0.4017947041311286,
+            -1.4444989631990213,
+            0.4017962830411286,
             -0.11824999749660492,
             0.8817500025033951
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject2/tileset.json"
+          "uri": "BatchedobjectLOD0element120/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447976611965616,
-            0.4017245793644921,
-            -1.4447847152921127,
-            0.4017626310954921,
-            -0.010649999603629112,
-            0.9893500003963709
+            -1.4445097188137699,
+            0.4017791200369417,
+            -1.4445093781320737,
+            0.40178590934994174,
+            15.596288681030273,
+            16.596288681030273
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject20/tileset.json"
+          "uri": "BatchedobjectLOD0element121/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447090810470964,
-            0.4017339733682363,
-            -1.4446775679902142,
-            0.4017376048612363,
-            26.410991668701172,
-            27.410991668701172
+            -1.4445104921470802,
+            0.4017601181866012,
+            -1.444509299761144,
+            0.40176974953760114,
+            18.386289596557617,
+            19.386289596557617
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject21/tileset.json"
+          "uri": "BatchedobjectLOD0element122/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447943645178931,
-            0.4018178658657979,
-            -1.444716178068656,
-            0.40186918044079784,
+            -1.4444976025723868,
+            0.4017971061000053,
+            -1.4444962398456025,
+            0.40179821133700533,
             0.3817499876022339,
             1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject25/tileset.json"
+          "uri": "BatchedobjectLOD0element125/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446428199335626,
-            0.40183061315482244,
-            -1.4445113167988979,
-            0.4018547704778224,
-            0.3905870020389557,
-            1.3905870020389557
+            -1.4445132563390515,
+            0.40175256641156326,
+            -1.4445107012263314,
+            0.40175888205156324,
+            0.3759329915046692,
+            1.3759329915046692
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject24/tileset.json"
+          "uri": "BatchedobjectLOD0element123/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447198751507255,
-            0.40184223005453307,
-            -1.4446306165463676,
-            0.4018692294155331,
-            0.23000000417232513,
-            1.2300000041723251
+            -1.4447877925337376,
+            0.4018802921355657,
+            -1.4447850670801694,
+            0.40188076580856574,
+            0.3817499876022339,
+            1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject23/tileset.json"
+          "uri": "BatchedobjectLOD0element16/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4448013377462896,
-            0.4017625468786068,
-            -1.444788732523537,
-            0.40179001991260677,
-            20.54800033569336,
-            21.54800033569336
+            -1.4447768699700905,
+            0.4018161583031581,
+            -1.4447766996292424,
+            0.40181631619415814,
+            15.966288566589355,
+            16.966288566589355
           ]
         },
-        "geometricError": 150,
+        "geometricError": 30,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject22/tileset.json"
+          "uri": "BatchedobjectLOD0element17/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444784838519951,
+            0.40179060840929237,
+            -1.444784668179103,
+            0.4017907663002924,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element18/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447817242683878,
+            0.4017232359466443,
+            -1.4447815539275397,
+            0.4017233938376443,
+            27.026288986206055,
+            28.026288986206055
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element19/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448161228749588,
+            0.40181713425148285,
+            -1.4448055617423818,
+            0.4018187131614828,
+            16.01628875732422,
+            17.01628875732422
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447683026358646,
+            0.40187842687466396,
+            -1.4447592745709201,
+            0.401881900476664,
+            2.759999990463257,
+            3.759999990463257
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element20/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444759554093556,
+            0.4017368441723883,
+            -1.4447575100033798,
+            0.40173700206338836,
+            27.996288299560547,
+            28.996288299560547
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element27/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447720004405102,
+            0.4017232911516366,
+            -1.4447573511275813,
+            0.4017280278816366,
+            25.780000686645508,
+            26.780000686645508
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element28/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444756540607587,
+            0.40187563404268484,
+            -1.444754666858259,
+            0.4018761077156849,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element30/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447568299915694,
+            0.40181717520831567,
+            -1.444751208743585,
+            0.4018189120093157,
+            15.316288948059082,
+            16.316288948059082
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element31/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447570507879919,
+            0.40180582303429896,
+            -1.444756539765448,
+            0.401814664930299,
+            15.376288414001465,
+            16.376288414001465
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element32/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447568644153086,
+            0.4017602093902404,
+            -1.4447563533927648,
+            0.40177015652324033,
+            24.886289596557617,
+            25.886289596557617
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element35/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447568276211034,
+            0.40172181976055055,
+            -1.4447460961476788,
+            0.4017279775095506,
+            26.18000030517578,
+            27.18000030517578
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element38/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447941761074412,
+            0.4018786923713101,
+            -1.444790428608785,
+            0.4018804291723101,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element4/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444728399533253,
+            0.40187497672888306,
+            -1.4447282291924048,
+            0.4018751346198831,
+            2.996289014816284,
+            3.996289014816284
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element40/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447309035769884,
+            0.4018171260022948,
+            -1.4447307332361403,
+            0.40181728389329485,
+            14.936288833618164,
+            15.936288833618164
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element42/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444736238003797,
+            0.4017843546574761,
+            -1.4447360676629488,
+            0.40178451254847614,
+            18.846288681030273,
+            19.846288681030273
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element44/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447413253355272,
+            0.40172504594473235,
+            -1.4447292311353184,
+            0.4017266248547323,
+            28.64628791809082,
+            29.64628791809082
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element45/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447199538855426,
+            0.401866403490433,
+            -1.4447189318404545,
+            0.40186924552843306,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element47/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447192579978485,
+            0.40184480682717266,
+            -1.4447163622034322,
+            0.4018577538891726,
+            5.146288871765137,
+            6.146288871765137
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element48/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447192144249423,
+            0.40183232565155597,
+            -1.444716318630526,
+            0.40183769394555596,
+            0.8162890076637268,
+            1.8162890076637268
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element49/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447183911766897,
+            0.40181341857050823,
+            -1.4447160064048177,
+            0.4018137343525082,
+            15.076289176940918,
+            16.076289176940918
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element51/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447220214204581,
+            0.40181785445570606,
+            -1.444716911195018,
+            0.40182827526170606,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element50/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444718413976829,
+            0.40179531119812406,
+            -1.444715858864109,
+            0.40179594276212405,
+            15.339999198913574,
+            16.339999198913574
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element52/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444718814419218,
+            0.4017745796491801,
+            -1.4447176220332818,
+            0.40177473754018017,
+            19.653194427490234,
+            20.653194427490234
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element53/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447204354748016,
+            0.4017353577477354,
+            -1.4447202651339535,
+            0.40173551563873544,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element56/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444720269043143,
+            0.40173058125587835,
+            -1.444720098702295,
+            0.4017307391468784,
+            28.850000381469727,
+            29.850000381469727
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element57/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447960282886485,
+            0.4018455467677709,
+            -1.4447943248801685,
+            0.40185486233677087,
+            8.8862886428833,
+            9.8862886428833
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element6/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447091159594847,
+            0.4017363861593538,
+            -1.4447089456186366,
+            0.40173654405035386,
+            26.549999237060547,
+            27.549999237060547
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element61/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446932685008032,
+            0.40186371672219573,
+            -1.4446924167965631,
+            0.4018686113431957,
+            2.7762889862060547,
+            3.7762889862060547
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element62/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446929247832474,
+            0.4017889413409142,
+            -1.4446842373999986,
+            0.40179241494291423,
+            16.046289443969727,
+            17.046289443969727
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element63/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446892104399234,
+            0.4017856926545666,
+            -1.4446890400990753,
+            0.40178585054556665,
+            17.0762882232666,
+            18.0762882232666
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element64/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446774444452744,
+            0.40186221120684024,
+            -1.4446772741044263,
+            0.4018623690978403,
+            2.6662890911102295,
+            3.6662890911102295
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element66/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444678662625622,
+            0.40178900431806785,
+            -1.4446670794479575,
+            0.4017956357400678,
+            15.276288986206055,
+            16.276288986206055
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element67/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446789537458666,
+            0.40178563176862064,
+            -1.4446787834050185,
+            0.4017857896596207,
+            16.346288681030273,
+            17.346288681030273
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element68/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446808070135377,
+            0.4017339405834962,
+            -1.4446668390640007,
+            0.4017369405124962,
+            26.410991668701172,
+            27.410991668701172
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element69/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446537353364273,
+            0.40185644203699683,
+            -1.4446535649955792,
+            0.4018565999279969,
+            2.576288938522339,
+            3.576288938522339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element71/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446650832245578,
+            0.40178890872963835,
+            -1.4446512856158689,
+            0.40179569804263837,
+            14.916288375854492,
+            15.916288375854492
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element72/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446649615198477,
+            0.4017853985845065,
+            -1.444651504592855,
+            0.4017857143665065,
+            15.186288833618164,
+            16.186288833618164
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element73/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446538711807584,
+            0.40173785608563073,
+            -1.4446537008399103,
+            0.4017380139766308,
+            28.056289672851562,
+            29.056289672851562
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element74/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446438316650447,
+            0.40185391013377236,
+            -1.4446405951889327,
+            0.4018553311527724,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element76/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446423325429003,
+            0.4018422915186931,
+            -1.4446421622020522,
+            0.40184244940969316,
+            5.226288795471191,
+            6.226288795471191
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element77/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446435932460795,
+            0.40181613823912843,
+            -1.4446393347248794,
+            0.4018297168651285,
+            8.886120796203613,
+            9.886120796203613
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element78/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444645249796271,
+            0.40178895148857185,
+            -1.4446406505933747,
+            0.4017957408015719,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element80/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444642300281691,
+            0.4017788738333732,
+            -1.4446358273294666,
+            0.40178645260137313,
+            14.046287536621094,
+            15.046287536621094
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element81/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446423152738483,
+            0.40175989101591375,
+            -1.444639249138584,
+            0.4017725222959137,
+            17.3262882232666,
+            18.3262882232666
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element82/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446452218081385,
+            0.40173406744367224,
+            -1.4446358530614978,
+            0.4017443303586722,
+            25.926288604736328,
+            26.926288604736328
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element84/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446221813890083,
+            0.40185177378682146,
+            -1.4446213296847683,
+            0.40185508949782145,
+            2.1662890911102295,
+            3.1662890911102295
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element85/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446356055661433,
+            0.40178887171429833,
+            -1.4446240223884788,
+            0.4017958189182983,
+            13.720000267028809,
+            14.720000267028809
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element86/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444612167542945,
+            0.40184796144772117,
+            -1.444608931066833,
+            0.4018531718507212,
+            2.1962890625,
+            3.1962890625
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element89/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448000120775293,
+            0.40180456204569115,
+            -1.4447998417366812,
+            0.4018047199366912,
+            17.270000457763672,
+            18.270000457763672
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element9/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444617406127035,
+            0.40178888944619773,
+            -1.4446075263578504,
+            0.40179567875919775,
+            14.5112886428833,
+            15.5112886428833
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element90/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446174531412754,
+            0.40178574072343304,
+            -1.4446172828004273,
+            0.4017858986144331,
+            14.95628833770752,
+            15.95628833770752
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element91/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444612856495987,
+            0.4017348471172168,
+            -1.4446079166113945,
+            0.4017368997002168,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element92/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445908893468813,
+            0.40178897779731393,
+            -1.4445903783243375,
+            0.40179245139931397,
+            15.026288986206055,
+            16.026288986206055
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element94/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444582107082616,
+            0.40184230412376076,
+            -1.4445787002656558,
+            0.4018443567067608,
+            2.876288890838623,
+            3.876288890838623
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element97/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445800864891634,
+            0.4017858205362542,
+            -1.4445799161483153,
+            0.4017859784272543,
+            15.390000343322754,
+            16.390000343322754
+          ]
+        },
+        "geometricError": 30,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD0element99/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448127001831836,
+            0.4018722217699282,
+            -1.4448104857521593,
+            0.40187537958992825,
+            4.076289176940918,
+            5.076289176940918
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element0/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448161194112064,
+            0.4017835904897066,
+            -1.4448038548701494,
+            0.40181848440070655,
+            14.29800033569336,
+            15.29800033569336
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element1/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447701107711124,
+            0.40181717387842325,
+            -1.4447573352075116,
+            0.4018808039514233,
+            2.759999990463257,
+            3.759999990463257
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element10/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444764302989295,
+            0.4017915297356574,
+            -1.4447574893553743,
+            0.4018160028406574,
+            15.756288528442383,
+            16.756288528442383
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element11/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447595000718858,
+            0.4017748751069541,
+            -1.4447574559817096,
+            0.40178276965695414,
+            21.756288528442383,
+            22.756288528442383
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element12/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447595560273572,
+            0.40173676092883015,
+            -1.4447573415963328,
+            0.4017594972328301,
+            26.226287841796875,
+            27.226287841796875
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element13/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447719441861315,
+            0.40172187016154726,
+            -1.4447578058957464,
+            0.4017280279105473,
+            25.13800048828125,
+            26.13800048828125
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element14/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447574025994412,
+            0.40181778356665604,
+            -1.4447427532865122,
+            0.401879834729656,
+            3.146289110183716,
+            4.146289110183716
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element15/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444757050787992,
+            0.4018058317171475,
+            -1.444756880447144,
+            0.40180598960814756,
+            15.6899995803833,
+            16.6899995803833
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element16/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447570905452798,
+            0.40177001192152795,
+            -1.4447494252071191,
+            0.401783590547528,
+            19.756288528442383,
+            20.756288528442383
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element17/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447568704090525,
+            0.4017478730668954,
+            -1.4447553373414206,
+            0.40174976775889537,
+            27.116289138793945,
+            28.116289138793945
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element18/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447571612589807,
+            0.40172187590514075,
+            -1.444746259444708,
+            0.40172929678214075,
+            25.277999877929688,
+            26.277999877929688
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element19/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447999572981938,
+            0.40187431423042813,
+            -1.4447893961656169,
+            0.40188441925442814,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447373212027466,
+            0.4018716907188146,
+            -1.4447288041603459,
+            0.4018767432308146,
+            2.9462890625,
+            3.9462890625
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element20/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447410936276837,
+            0.4017937362392538,
+            -1.4447288290866267,
+            0.4018189987992538,
+            13.90999984741211,
+            14.90999984741211
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element21/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447414174250084,
+            0.401723885064261,
+            -1.4447291528839514,
+            0.40178451520826103,
+            18.700000762939453,
+            19.700000762939453
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element22/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444721587302898,
+            0.4018616209273278,
+            -1.4447174991225455,
+            0.40187393642532776,
+            0.4680750072002411,
+            1.468075007200241
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element23/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447189967267602,
+            0.40183217610611294,
+            -1.444716271273192,
+            0.40185775444811295,
+            3.1480000019073486,
+            4.148000001907349
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element24/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447220115227235,
+            0.40180218313792054,
+            -1.444716049593043,
+            0.4018282351529206,
+            11.75,
+            12.75
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element25/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447244271626363,
+            0.4017745565495264,
+            -1.4447157397793875,
+            0.4018009243465264,
+            16.360000610351562,
+            17.360000610351562
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element26/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444721427223672,
+            0.40172600592471064,
+            -1.4447161466573837,
+            0.40174416338971064,
+            0.3674269914627075,
+            1.3674269914627075
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element28/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447106108605363,
+            0.40178901118917887,
+            -1.4447012421138956,
+            0.4018717460731789,
+            2.6062889099121094,
+            3.6062889099121094
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element29/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444799551019312,
+            0.4018359523453788,
+            -1.4447942704530237,
+            0.4018548992653788,
+            7.940000057220459,
+            8.940000057220459
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element3/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447098961130826,
+            0.40173400625898237,
+            -1.4447008680481381,
+            0.4017859523979823,
+            17.73628807067871,
+            18.73628807067871
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element30/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446939341858507,
+            0.401788961289301,
+            -1.4446849061209062,
+            0.4018671173343011,
+            0.3199999928474426,
+            1.3199999928474426
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element31/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446928864503183,
+            0.4017340610351325,
+            -1.444684028726222,
+            0.4017858492831325,
+            16.93000030517578,
+            17.93000030517578
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element32/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446796196700402,
+            0.4017922239780671,
+            -1.4446671847881352,
+            0.40186548540206707,
+            2.576288938522339,
+            3.576288938522339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element33/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446808957500574,
+            0.4017340018067337,
+            -1.4446669278005204,
+            0.4017857900547337,
+            16.18000030517578,
+            17.18000030517578
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element34/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444663950630505,
+            0.40185644554482913,
+            -1.4446528784753843,
+            0.40186291907582916,
+            2.366288900375366,
+            3.366288900375366
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element35/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446650822888474,
+            0.40178543496381103,
+            -1.4446512846801585,
+            0.401795697878811,
+            0.3199999928474426,
+            1.3199999928474426
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element36/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446588239261677,
+            0.4017340529786825,
+            -1.4446434932498469,
+            0.40185926054168253,
+            2.2362890243530273,
+            3.2362890243530273
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element37/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446445772077614,
+            0.40183594266992934,
+            -1.4446392966414732,
+            0.40185615271792935,
+            2.366288900375366,
+            3.366288900375366
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element38/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444643592424734,
+            0.40180427257243323,
+            -1.4446405262894697,
+            0.4018279562224333,
+            8.489999771118164,
+            9.489999771118164
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element39/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448000669985213,
+            0.4018035186583273,
+            -1.4447895058659443,
+            0.40182657074432726,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element4/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446482648001697,
+            0.401778845963453,
+            -1.444635659577417,
+            0.401795740300453,
+            13.5600004196167,
+            14.5600004196167
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element40/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444644007297854,
+            0.40174711544258224,
+            -1.4446392377541095,
+            0.40177300956658224,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element41/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446487447675311,
+            0.40173396366387615,
+            -1.4446223419360895,
+            0.40185696075287614,
+            2.0199999809265137,
+            3.0199999809265137
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element42/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446356509376923,
+            0.4017930620801476,
+            -1.4446259415093559,
+            0.40179353575314763,
+            0.30000001192092896,
+            1.300000011920929
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element43/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446281541105466,
+            0.401733968000482,
+            -1.4446089055947213,
+            0.40185017577648197,
+            0.5400000214576721,
+            1.5400000214576721
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element44/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446174553869797,
+            0.4017856360088575,
+            -1.4446120044798434,
+            0.40179574103285753,
+            13.149999618530273,
+            14.149999618530273
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element45/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446196484006366,
+            0.4017339760569319,
+            -1.4445918828424107,
+            0.4018512890699319,
+            2.4262890815734863,
+            3.4262890815734863
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element46/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446048971160868,
+            0.40173700726731537,
+            -1.4445916105299417,
+            0.40179574271931534,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element47/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445835238310705,
+            0.40184238596033134,
+            -1.444578754287326,
+            0.4018436490883313,
+            0.5199999809265137,
+            1.5199999809265137
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element48/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445822215719601,
+            0.40178588395670534,
+            -1.4445798368000882,
+            0.40179567319870535,
+            14.989999771118164,
+            15.989999771118164
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element49/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448030597845005,
+            0.40177872242800805,
+            -1.4447889214941154,
+            0.40179861669400807,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element5/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444588507652456,
+            0.4017408889150137,
+            -1.4445849304946479,
+            0.40174246782501366,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element50/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444569778476599,
+            0.40179303313089443,
+            -1.4445617724567426,
+            0.40184055832189447,
+            3.206289052963257,
+            4.206289052963257
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element51/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444570056091426,
+            0.4017858059170741,
+            -1.444569885750578,
+            0.40178596380807413,
+            15.996288299560547,
+            16.996288299560547
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element52/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444558897310332,
+            0.40178899814081376,
+            -1.444545781065035,
+            0.4018376285688137,
+            0.5,
+            1.5
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element53/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445459509276313,
+            0.40178582124938494,
+            -1.4445457805867832,
+            0.401785979140385,
+            16.229999542236328,
+            17.229999542236328
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element54/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445395942529975,
+            0.4017889529822916,
+            -1.4445309068697487,
+            0.40183616239129166,
+            4.496288776397705,
+            5.496288776397705
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element55/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444535845298792,
+            0.40175233486572237,
+            -1.4445346529128558,
+            0.4017859656487224,
+            16.079999923706055,
+            17.079999923706055
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element56/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445254208007015,
+            0.401793863080156,
+            -1.4445252504598534,
+            0.40183365161215606,
+            0.3646169900894165,
+            1.3646169900894165
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element57/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445250074247178,
+            0.40175245926848846,
+            -1.4445141056104451,
+            0.4017859321604884,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element58/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445122783971056,
+            0.4018258301676935,
+            -1.4444998435152006,
+            0.4018308826796935,
+            6.306289196014404,
+            7.306289196014404
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element59/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444798441163018,
+            0.40174776782229027,
+            -1.4447962267319936,
+            0.40176750419729024,
+            25.046289443969727,
+            26.046289443969727
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element6/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445138826410955,
+            0.4017787316794339,
+            -1.4444988926464704,
+            0.4017972049264339,
+            -0.11824999749660492,
+            0.8817500025033951
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element60/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445132410765782,
+            0.40175262504247417,
+            -1.4445084715328338,
+            0.4017698351614742,
+            18.219999313354492,
+            19.219999313354492
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element61/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4444980763744575,
+            0.40179216760219116,
+            -1.4444856414925524,
+            0.4018150617971912,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element62/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4444936573269698,
+            0.4017790968987404,
+            -1.4444807114225209,
+            0.40179441232574037,
+            12.10628890991211,
+            13.10628890991211
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element63/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444796081260244,
+            0.4017258236234383,
+            -1.4447908006939558,
+            0.4017436653064383,
+            -0.010649999603629112,
+            0.9893500003963709
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element7/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447846539433116,
+            0.4018161359069982,
+            -1.4447742631515827,
+            0.4018840290369982,
+            3.390000104904175,
+            4.390000104904175
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element8/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447871210212946,
+            0.4017252149856278,
+            -1.4447847362494226,
+            0.4017913713146278,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 200,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD1element9/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444818249445392,
+            0.4017835423051973,
+            -1.4448030891099188,
+            0.4018790663601973,
+            2.3380000591278076,
+            3.3380000591278076
+          ]
+        },
+        "geometricError": 47.696549078237744,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element0/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448000035573678,
+            0.4018362624994281,
+            -1.4447892720839433,
+            0.40188441925442814,
+            2.990000009536743,
+            3.990000009536743
+          ]
+        },
+        "geometricError": 141.21590373826382,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element1/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444739745045719,
+            0.4017939038635247,
+            -1.4447290135722943,
+            0.40187679663852466,
+            1.0800000429153442,
+            2.0800000429153442
+          ]
+        },
+        "geometricError": 120.65773843167456,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element10/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447362807137702,
+            0.40172388101676226,
+            -1.444716861857097,
+            0.40187371957576223,
+            0.6299999952316284,
+            1.6299999952316284
+          ]
+        },
+        "geometricError": 204.15912944000132,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element11/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447256668903112,
+            0.40180202873547904,
+            -1.4447162981436705,
+            0.401856659021479,
+            4.079999923706055,
+            5.079999923706055
+          ]
+        },
+        "geometricError": 484.9279550374084,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element12/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447244307183351,
+            0.40174961298061473,
+            -1.4447169357210226,
+            0.40180140122861474,
+            15.949999809265137,
+            16.949999809265137
+          ]
+        },
+        "geometricError": 390.14467835410505,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element13/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447260551164833,
+            0.40172447545941625,
+            -1.4447015260343699,
+            0.4018717877624163,
+            0.6200000047683716,
+            1.6200000047683716
+          ]
+        },
+        "geometricError": 58.14359513641764,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element14/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447099422124066,
+            0.4017339570144139,
+            -1.4446842207443569,
+            0.40186863803741385,
+            0.46000000834465027,
+            1.4600000083446503
+          ]
+        },
+        "geometricError": 106.40617263259561,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element15/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446944858390118,
+            0.4017339915530701,
+            -1.4446672313033302,
+            0.40186551475607013,
+            1.659999966621399,
+            2.659999966621399
+          ]
+        },
+        "geometricError": 138.04359721052415,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element16/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446790117806942,
+            0.4017339386079313,
+            -1.4446531199717965,
+            0.4018610408629313,
+            1.190000057220459,
+            2.190000057220459
+          ]
+        },
+        "geometricError": 154.81665579366478,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element17/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446650310119271,
+            0.4017339052449771,
+            -1.4446435680650775,
+            0.4018592706989771,
+            0.7200000286102295,
+            1.7200000286102295
+          ]
+        },
+        "geometricError": 615.475723447924,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element18/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446470803261835,
+            0.40180421563761715,
+            -1.4446383929429347,
+            0.4018561617766171,
+            0.30000001192092896,
+            1.300000011920929
+          ]
+        },
+        "geometricError": 496.9261360027086,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element19/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4448031072516505,
+            0.4017807174979778,
+            -1.4447887986204178,
+            0.4018228743949778,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 390.77351798943545,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446440626711057,
+            0.40175063987923954,
+            -1.4446386117639693,
+            0.40179579670523957,
+            10.920000076293945,
+            11.920000076293945
+          ]
+        },
+        "geometricError": 254.57569056982135,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element20/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444648778796193,
+            0.40173399168798674,
+            -1.4446220352830552,
+            0.4018569887769867,
+            0.30000001192092896,
+            1.300000011920929
+          ]
+        },
+        "geometricError": 118.99673628106227,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element21/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446330394744233,
+            0.40173478950781755,
+            -1.4446114061867257,
+            0.4018532077578176,
+            1.0199999809265137,
+            2.0199999809265137
+          ]
+        },
+        "geometricError": 80.72243445262549,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element22/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446196484006366,
+            0.4017340019031027,
+            -1.4445920531832588,
+            0.4018513149161027,
+            0.3799999952316284,
+            1.3799999952316284
+          ]
+        },
+        "geometricError": 101.25453780618268,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element23/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445891878098216,
+            0.4017858593055104,
+            -1.444579819063181,
+            0.4018436474115104,
+            0.30000001192092896,
+            1.300000011920929
+          ]
+        },
+        "geometricError": 447.7537992402069,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element24/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444586583561918,
+            0.4017389022291486,
+            -1.4445622248206522,
+            0.4018424787251486,
+            2.259999990463257,
+            3.259999990463257
+          ]
+        },
+        "geometricError": 100.15536552570724,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element25/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444570049894945,
+            0.4017521838458334,
+            -1.4445456911536791,
+            0.40183870811383343,
+            0.3199999928474426,
+            1.3199999928474426
+          ]
+        },
+        "geometricError": 344.7758975572602,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element26/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445572861004994,
+            0.4017540853607599,
+            -1.4445307129282097,
+            0.40183618868075993,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 368.21804986859803,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element27/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445356580943662,
+            0.4017539489985987,
+            -1.4445216901448292,
+            0.40183352606259864,
+            4.550000190734863,
+            5.550000190734863
+          ]
+        },
+        "geometricError": 766.2467758432051,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element28/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444525058285767,
+            0.40175313406363017,
+            -1.4445012105670454,
+            0.4018325532366302,
+            5.199999809265137,
+            6.199999809265137
+          ]
+        },
+        "geometricError": 318.3985489146383,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element29/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447984422845705,
+            0.40172582245737315,
+            -1.44479077694641,
+            0.40176750568137315,
+            24.31999969482422,
+            25.31999969482422
+          ]
+        },
+        "geometricError": 32.42995129628782,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element3/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445139662312088,
+            0.4017523684695991,
+            -1.4444988058957355,
+            0.40179720951359915,
+            12.9399995803833,
+            13.9399995803833
+          ]
+        },
+        "geometricError": 190.62918544154778,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element30/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4444973822438192,
+            0.4017845843048473,
+            -1.4444827329308902,
+            0.40181458359484734,
+            8.329999923706055,
+            9.329999923706055
+          ]
+        },
+        "geometricError": 104.15612386544151,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element31/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444787081968389,
+            0.40172364416098844,
+            -1.4447758394724202,
+            0.40188406141698846,
+            0.3817499876022339,
+            1.3817499876022339
+          ]
+        },
+        "geometricError": 111.85952827887775,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element4/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447701364459613,
+            0.40179145574352493,
+            -1.4447573608823605,
+            0.40188192728652494,
+            2.380000114440918,
+            3.380000114440918
+          ]
+        },
+        "geometricError": 113.31897024043917,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element5/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447596272712941,
+            0.4017366658029719,
+            -1.4447574128402698,
+            0.4017827699749719,
+            20.058000564575195,
+            21.058000564575195
+          ]
+        },
+        "geometricError": 200.15225686504905,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element6/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447719848791296,
+            0.4017218315561184,
+            -1.4447449006842956,
+            0.4018798804471184,
+            1.7799999713897705,
+            2.7799999713897705
+          ]
+        },
+        "geometricError": 256.14796881712954,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element7/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447570905452798,
+            0.4017602019987366,
+            -1.4447494252071191,
+            0.4018146743937366,
+            14.067999839782715,
+            15.067999839782715
+          ]
+        },
+        "geometricError": 82.19204496454961,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element8/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447571967016046,
+            0.40171154803742226,
+            -1.4447493610225963,
+            0.40175954690142224,
+            24.038000106811523,
+            25.038000106811523
+          ]
+        },
+        "geometricError": 139.73303584408092,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD2element9/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
             -1.4448182494453918,
-            0.401863423201439,
-            -1.4447991712704147,
-            0.40187921230143897,
-            2.009999990463257,
-            3.009999990463257
+            0.4017835584759186,
+            -1.4447928686590383,
+            0.40188445082491864,
+            2.75,
+            3.75
           ]
         },
-        "geometricError": 150,
+        "geometricError": 56.756254089377435,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject27/tileset.json"
+          "uri": "BatchedobjectLOD3element0/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447960457669358,
-            0.4018171175025474,
-            -1.4447894024738632,
-            0.4018786949925474,
+            -1.4448031253050098,
+            0.4017246689105841,
+            -1.444788646332929,
+            0.40182666649658416,
+            13.989999771118164,
+            14.989999771118164
+          ]
+        },
+        "geometricError": 390.77351798943545,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element1/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446487787961928,
+            0.4017340227959059,
+            -1.444621353919663,
+            0.4018570198849059,
+            0.7900000214576721,
+            1.7900000214576721
+          ]
+        },
+        "geometricError": 522.7779288475442,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element10/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446282112720448,
+            0.4017339588261514,
+            -1.4445919286714182,
+            0.4018531665311514,
+            1.0199999809265137,
+            2.0199999809265137
+          ]
+        },
+        "geometricError": 80.72243445262549,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element11/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445866899625672,
+            0.4017403319791817,
+            -1.4445647159931738,
+            0.40184438214818163,
+            1.940000057220459,
+            2.940000057220459
+          ]
+        },
+        "geometricError": 447.7537992402069,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element12/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4445700498949448,
+            0.40174757517098525,
+            -1.4445307011590542,
+            0.40183867827798525,
             0.3817499876022339,
             1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 344.7758975572602,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject26/tileset.json"
+          "uri": "BatchedobjectLOD3element13/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4448001335522105,
-            0.4018018976157924,
-            -1.4447992818479705,
-            0.4018227392277924,
-            15.303297996520996,
-            16.303297996520996
+            -1.444535939493621,
+            0.40175246343163,
+            -1.4445011899606268,
+            0.40183361940563006,
+            4.550000190734863,
+            5.550000190734863
           ]
         },
-        "geometricError": 150,
+        "geometricError": 766.2467758432051,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject28/tileset.json"
+          "uri": "BatchedobjectLOD3element14/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446925412564198,
-            0.4018611919888262,
-            -1.4446763588758589,
-            0.40187019177582617,
-            0.5,
-            1.5
+            -1.4445139662312085,
+            0.40175364300769095,
+            -1.4444810904475425,
+            0.4018150626066909,
+            8.279999732971191,
+            9.279999732971191
           ]
         },
-        "geometricError": 150,
+        "geometricError": 190.62918544154778,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject29/tileset.json"
+          "uri": "BatchedobjectLOD3element15/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.444592321940029,
-            0.40184221110838403,
-            -1.4445718810382675,
-            0.4018531055873841,
-            0.33000001311302185,
-            1.3300000131130219
+            -1.444787154868013,
+            0.40172383323700284,
+            -1.4447575155604588,
+            0.4018840926020028,
+            0.3817499876022339,
+            1.3817499876022339
           ]
         },
-        "geometricError": 150,
+        "geometricError": 111.85952827887775,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject30/tileset.json"
+          "uri": "BatchedobjectLOD3element2/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4445656467337373,
-            0.40183673299225053,
-            -1.4445474202630002,
-            0.4018400487032505,
-            0.3199999928474426,
-            1.3199999928474426
+            -1.4447719848791294,
+            0.4017237262481185,
+            -1.4447447303434477,
+            0.4018798804471184,
+            1.3680000305175781,
+            2.368000030517578
           ]
         },
-        "geometricError": 150,
+        "geometricError": 256.14796881712954,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject31/tileset.json"
+          "uri": "BatchedobjectLOD3element3/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4445370133978492,
-            0.40179226762359554,
-            -1.4445094181804714,
-            0.4017958991165955,
-            0.41154301166534424,
-            1.4115430116653442
+            -1.4447575876569316,
+            0.4017115715514628,
+            -1.4447494112962271,
+            0.4018146743744628,
+            14.479999542236328,
+            15.479999542236328
           ]
         },
-        "geometricError": 150,
+        "geometricError": 82.19204496454961,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject3/tileset.json"
+          "uri": "BatchedobjectLOD3element4/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446121372051404,
-            0.40179217077273194,
-            -1.444587608123027,
-            0.4017958022657319,
-            0.30000001192092896,
-            1.300000011920929
+            -1.4447414174250084,
+            0.40172471988979497,
+            -1.4447167180020468,
+            0.4018751900127949,
+            0.6299999952316284,
+            1.6299999952316284
           ]
         },
-        "geometricError": 150,
+        "geometricError": 154.0412813550216,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject34/tileset.json"
+          "uri": "BatchedobjectLOD3element5/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.44458766087629,
-            0.4017922219639546,
-            -1.4445561478194078,
-            0.40179380087395455,
-            0.33000001311302185,
-            1.3300000131130219
+            -1.4447253313186326,
+            0.40174964378978995,
+            -1.444716303253688,
+            0.4018577991247899,
+            3.6500000953674316,
+            4.650000095367432
           ]
         },
-        "geometricError": 150,
+        "geometricError": 484.9279550374084,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject32/tileset.json"
+          "uri": "BatchedobjectLOD3element6/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446324758233773,
-            0.40184998309626624,
-            -1.4446181671921445,
-            0.40185945655626626,
-            0.20000000298023224,
-            1.2000000029802322
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject33/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447091737863766,
-            0.40179219602141475,
-            -1.4446783420928864,
-            0.4017958275144147,
-            0.3199999928474426,
-            1.3199999928474426
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject35/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446808101741588,
-            0.40173398245583475,
-            -1.4446465716637085,
-            0.40173808762183477,
-            0.30000001192092896,
-            1.300000011920929
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject37/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447014879769555,
-            0.4017340008430435,
-            -1.444692630252859,
-            0.4017366849900435,
+            -1.4447260637510095,
+            0.40172633075576153,
+            -1.4446841599023985,
+            0.4018717483667615,
             0.36000001430511475,
             1.3600000143051147
           ]
         },
-        "geometricError": 150,
+        "geometricError": 58.14359513641764,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject36/tileset.json"
+          "uri": "BatchedobjectLOD3element7/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446791617126626,
-            0.4018552923931531,
-            -1.4446467969515404,
-            0.4018612922511531,
+            -1.4446944868267062,
+            0.4017339595778297,
+            -1.4446529236597914,
+            0.40186548278082973,
+            1.2100000381469727,
+            2.2100000381469727
+          ]
+        },
+        "geometricError": 138.04359721052415,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element8/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4446651326612479,
+            0.40173393625652726,
+            -1.44463924085235,
+            0.40185930171052725,
+            0.23000000417232513,
+            1.2300000041723251
+          ]
+        },
+        "geometricError": 456.65379257614916,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD3element9/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444818232411567,
+            0.4017246651329186,
+            -1.444789444808253,
+            0.40188445082491864,
+            2.009999990463257,
+            3.009999990463257
+          ]
+        },
+        "geometricError": 56.756254089377435,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD4element0/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447852810173163,
+            0.4017116756300028,
+            -1.4447426958053133,
+            0.4018840926020028,
+            1.3300000429153442,
+            2.3300000429153442
+          ]
+        },
+        "geometricError": 111.85952827887775,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD4element1/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447576217271807,
+            0.4017116426525247,
+            -1.4447174212870502,
+            0.4018767966385247,
+            0.6299999952316284,
+            1.6299999952316284
+          ]
+        },
+        "geometricError": 154.0412813550216,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD4element2/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.4447260978212584,
+            0.40172624313704985,
+            -1.4446843643134955,
+            0.40187181863904986,
+            0.37626299262046814,
+            1.3762629926204681
+          ]
+        },
+        "geometricError": 484.9279550374084,
+        "refine": "ADD",
+        "content": {
+          "uri": "BatchedobjectLOD4element3/tileset.json"
+        }
+      },
+      {
+        "boundingVolume": {
+          "region": [
+            -1.444692931707503,
+            0.40173386442306086,
+            -1.4446392743403793,
+            0.40186554551706083,
             0.20999999344348907,
             1.209999993443489
           ]
         },
-        "geometricError": 150,
+        "geometricError": 300.160595736573,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject38/tileset.json"
+          "uri": "BatchedobjectLOD4element4/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446360859597727,
-            0.4017921856713822,
-            -1.4446158153988593,
-            0.4017958171643822,
-            0.30000001192092896,
-            1.300000011920929
+            -1.444648778796193,
+            0.40173386490490587,
+            -1.444590522226173,
+            0.4018570198849059,
+            0.5879999995231628,
+            1.5879999995231628
           ]
         },
-        "geometricError": 150,
+        "geometricError": 522.7779288475442,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject39/tileset.json"
+          "uri": "BatchedobjectLOD4element5/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446432778181628,
-            0.4017921509785355,
-            -1.4445252316104908,
-            0.40179578247153547,
-            0.3646169900894165,
-            1.3646169900894165
+            -1.4445861778379645,
+            0.40173892599374855,
+            -1.4445306467215127,
+            0.40184755500174857,
+            0.41999998688697815,
+            1.4199999868869781
           ]
         },
-        "geometricError": 150,
+        "geometricError": 447.7537992402069,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject4/tileset.json"
+          "uri": "BatchedobjectLOD4element6/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447193858782459,
-            0.4018411789191001,
-            -1.4447163197429815,
-            0.4018691256261001,
-            1.3706409931182861,
-            2.370640993118286
+            -1.444535905433769,
+            0.4017523686430634,
+            -1.4444827590891895,
+            0.4018336825080634,
+            4.550000190734863,
+            5.550000190734863
           ]
         },
-        "geometricError": 150,
+        "geometricError": 766.2467758432051,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject40/tileset.json"
+          "uri": "BatchedobjectLOD4element7/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447026709953927,
-            0.4018636631988428,
-            -1.444692280203664,
-            0.4018732945498428,
-            1.2280000448226929,
-            2.228000044822693
+            -1.4448181768687178,
+            0.4017116629092924,
+            -1.4447427158730488,
+            0.4018813957342924,
+            1.1799999475479126,
+            2.1799999475479126
           ]
         },
-        "geometricError": 150,
+        "geometricError": 56.756254089377435,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject41/tileset.json"
+          "uri": "BatchedobjectLOD5element0/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446640069290702,
-            0.4018596199788479,
-            -1.444662984883982,
-            0.40186277779884794,
-            1.0980000495910645,
-            2.0980000495910645
+            -1.4447571526348515,
+            0.4017115057506969,
+            -1.4446847577744468,
+            0.4018738176986969,
+            0.6299999952316284,
+            1.6299999952316284
           ]
         },
-        "geometricError": 150,
+        "geometricError": 154.0412813550216,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject43/tileset.json"
+          "uri": "BatchedobjectLOD5element1/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.444609049361399,
-            0.4018447576596994,
-            -1.44459184493575,
-            0.4018480733706994,
-            0.7695500254631042,
-            1.7695500254631042
+            -1.4446945057904332,
+            0.4017340031751737,
+            -1.4445904275322983,
+            0.40186426325017377,
+            0.3779999911785126,
+            1.3779999911785126
           ]
         },
-        "geometricError": 150,
+        "geometricError": 300.160595736573,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject46/tileset.json"
+          "uri": "BatchedobjectLOD5element2/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4446766072237491,
-            0.4018608477586919,
-            -1.4446622985925164,
-            0.4018685844176919,
-            0.9969339966773987,
-            1.9969339966773987
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject42/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446224049197842,
-            0.40184784983312394,
-            -1.4446004309503908,
-            0.40185763907512395,
-            0.4483270049095154,
-            1.4483270049095154
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject45/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446540498910145,
-            0.4017920039097763,
-            -1.4446329276258612,
-            0.4018540550727763,
-            0.3817499876022339,
-            1.3817499876022339
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject5/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444578788035275,
-            0.4018399305933814,
-            -1.4445617539504736,
-            0.40184245684938136,
-            1.8474910259246826,
-            2.8474910259246826
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject47/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444736113887034,
-            0.4017611087926536,
-            -1.4447095407147443,
-            0.4018021604526536,
-            15.245372772216797,
-            16.245372772216797
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject50/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447494381355155,
-            0.4017833252050723,
-            -1.444724057349162,
-            0.4017880619350723,
-            17.540000915527344,
-            18.540000915527344
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject51/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447427668283186,
-            0.4018161653573703,
-            -1.4447216445631652,
-            0.4018194810683703,
-            11.838000297546387,
-            12.838000297546387
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject52/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447694255713084,
-            0.4018172179190647,
-            -1.4447394455820586,
-            0.40181927050206473,
-            12.538000106811523,
-            13.538000106811523
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject53/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447767920592183,
-            0.4018158120685482,
-            -1.444756521498305,
-            0.40181896988854826,
-            12.89799976348877,
-            13.89799976348877
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject54/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447903524003853,
-            0.40181610503036463,
-            -1.44476940047608,
-            0.4018192628503647,
-            13.597999572753906,
-            14.597999572753906
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject55/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445015036314877,
-            0.40182456287655194,
-            -1.4444998002230076,
-            0.4018261417865519,
-            5.866971015930176,
-            6.866971015930176
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject49/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447745982865965,
-            0.4017906607183957,
-            -1.4447565421567075,
-            0.40181876531639565,
-            13.148120880126953,
-            14.148120880126953
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject56/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447595738682322,
-            0.40176019825961873,
-            -1.444755145006184,
-            0.4018064603226187,
-            15.188702583312988,
-            16.18870258331299
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject57/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444771841115051,
-            0.40172172688972735,
-            -1.4447536146443138,
-            0.4017749361567274,
-            22.018173217773438,
-            23.018173217773438
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject58/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444720261661429,
-            0.4017921281872626,
-            -1.4446478668010243,
-            0.4017957596802626,
+            -1.444588013431109,
+            0.4017388015042504,
+            -1.4444810393785579,
+            0.4018474305122504,
             0.3199999928474426,
             1.3199999928474426
           ]
         },
-        "geometricError": 150,
+        "geometricError": 371.3905505676025,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject6/tileset.json"
+          "uri": "BatchedobjectLOD5element3/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447097084200085,
-            0.40178575371397673,
-            -1.4446925039943594,
-            0.40178922731597677,
-            14.64799976348877,
-            15.64799976348877
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject59/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446842710231862,
-            0.4017854096669436,
-            -1.4446646818256648,
-            0.4017891990509436,
-            13.517999649047852,
-            14.517999649047852
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject61/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447023538935941,
-            0.4017855653414562,
-            -1.4446786765157207,
-            0.4017891968344562,
-            14.270000457763672,
-            15.270000457763672
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject60/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446671587649942,
-            0.40178542837217013,
-            -1.444651317066129,
-            0.40178921775617016,
-            12.758000373840332,
-            13.758000373840332
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject62/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446516042044066,
-            0.4017599449247427,
-            -1.4446357625055415,
-            0.4017956282907427,
-            11.890000343322754,
-            12.890000343322754
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject63/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446361720243197,
-            0.4017857016168853,
-            -1.4446160718042544,
-            0.40178917521888535,
-            11.918000221252441,
-            12.918000221252441
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject64/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446161487196352,
-            0.40178886360966387,
-            -1.4446074613363864,
-            0.40178917939166386,
-            11.928000450134277,
-            12.928000450134277
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject65/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446075724987613,
-            0.401788880975361,
-            -1.44459053841396,
-            0.40178919675736097,
-            11.940136909484863,
-            12.940136909484863
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject66/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446173473644326,
-            0.4017857465537587,
-            -1.4445698222678376,
-            0.40178922015575874,
-            12.960132598876953,
-            13.960132598876953
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject67/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446531895366532,
-            0.40186081884798636,
-            -1.4446523378324132,
-            0.40186413455898634,
-            0.7969350218772888,
-            1.7969350218772888
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject44/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445523344467517,
-            0.4018334401014341,
-            -1.44452507991107,
-            0.40183754526743415,
-            2.49035906791687,
-            3.49035906791687
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject48/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445738959550782,
-            0.40178892178764036,
-            -1.444556180506885,
-            0.40178923756964036,
-            13.538000106811523,
-            14.538000106811523
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject68/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445699598380342,
-            0.4017857037659145,
-            -1.444539298485392,
-            0.40179233518791446,
-            14.267999649047852,
-            15.267999649047852
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject69/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444798417867732,
-            0.4017898943919601,
-            -1.444784620259043,
-            0.40182636721296017,
-            0.3817499876022339,
-            1.3817499876022339
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject7/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445695989657907,
-            0.4017922710543326,
-            -1.4445392782948447,
-            0.4017957446563326,
-            14.145332336425781,
-            15.145332336425781
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject70/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445458309487869,
-            0.4017857055198306,
-            -1.4445306706133136,
-            0.4017923369418306,
-            14.430000305175781,
-            15.430000305175781
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject71/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444535687621222,
-            0.4017600659353193,
-            -1.4445084330855404,
-            0.40179574930131934,
-            12.977999687194824,
-            13.977999687194824
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject72/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446330992143228,
-            0.401792288198381,
-            -1.4446036302476168,
-            0.401795761800381,
-            11.82800006866455,
-            12.82800006866455
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject74/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445933922053837,
-            0.40179215416835,
-            -1.4445695444866622,
-            0.40179578566135,
-            13.030138969421387,
-            14.030138969421387
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject73/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447960539608982,
-            0.401845367559944,
-            -1.4447943505524181,
-            0.401861946114944,
-            6.870636940002441,
-            7.870636940002441
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject78/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446436529028046,
-            0.4018160922132852,
-            -1.4446392240407564,
-            0.40184830197728516,
-            2.2006630897521973,
-            3.2006630897521973
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject77/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447893431303411,
-            0.4018782581325125,
-            -1.4447680505243397,
-            0.40188078438851244,
-            0.9480000138282776,
-            1.9480000138282776
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject79/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447097388409877,
-            0.40179215187476736,
-            -1.4446927047561864,
-            0.40179578336776733,
-            14.628000259399414,
-            15.628000259399414
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject76/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447847606142772,
-            0.4017905705748157,
-            -1.4447743698225484,
-            0.4017908863568157,
-            0.3823539912700653,
-            1.3823539912700653
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject8/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447623593736032,
-            0.4018731554122538,
-            -1.4447368082464016,
-            0.4018818394172538,
-            0.2900019884109497,
-            1.2900019884109497
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject80/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447490507930696,
-            0.4018702354117178,
-            -1.4447214555756918,
-            0.4018803404357178,
+            -1.444818027067359,
+            0.4017115050182924,
+            -1.4446841391608218,
+            0.40188139573429243,
             0.27000001072883606,
             1.270000010728836
           ]
         },
-        "geometricError": 150,
+        "geometricError": 56.756254089377435,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject81/tileset.json"
+          "uri": "BatchedobjectLOD6element0/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447371022673476,
-            0.40179367341629063,
-            -1.4447231343178106,
-            0.4017952523262906,
-            16.510000228881836,
-            17.510000228881836
+            -1.4446945057904332,
+            0.40173386444233466,
+            -1.4444805576853308,
+            0.40186554553633463,
+            0.25999999046325684,
+            1.2599999904632568
           ]
         },
-        "geometricError": 150,
+        "geometricError": 300.160595736573,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject82/tileset.json"
+          "uri": "BatchedobjectLOD6element1/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.444684277895458,
-            0.40179215014012504,
-            -1.4446648590387847,
-            0.401795781633125,
-            13.527999877929688,
-            14.527999877929688
+            -1.4448162166831577,
+            0.4017115834819473,
+            -1.4444806452125751,
+            0.4018803689609473,
+            -0.10941299796104431,
+            0.8905870020389557
           ]
         },
-        "geometricError": 150,
+        "geometricError": 56.756254089377435,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject75/tileset.json"
+          "uri": "BatchedobjectLOD7element0/tileset.json"
         }
       },
       {
         "boundingVolume": {
           "region": [
-            -1.4447507776047022,
-            0.40179264442645807,
-            -1.4447368096551652,
-            0.4017940654454581,
-            17.67059326171875,
-            18.67059326171875
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject83/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444749618888739,
-            0.4017238413416373,
-            -1.4447257711700174,
-            0.4017265254886373,
-            27.119325637817383,
-            28.119325637817383
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject84/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447598231830232,
-            0.401723505948542,
-            -1.4447393822812618,
-            0.40172666376854205,
-            25.468122482299805,
-            26.468122482299805
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject85/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446806884278618,
-            0.4017339717877844,
-            -1.4446668908191729,
-            0.4017358664797844,
-            26.059999465942383,
-            27.059999465942383
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject86/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4446329544911412,
-            0.4017339031055849,
-            -1.4446193272233003,
-            0.40173579779758484,
-            25.34189796447754,
-            26.34189796447754
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject87/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447593749934207,
-            0.4017825437101532,
-            -1.444749324883388,
-            0.40178364894715324,
-            18.440000534057617,
-            19.440000534057617
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject88/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447820597776855,
-            0.4017905157215703,
-            -1.4447091538947365,
-            0.40187435584257036,
+            -1.444817982011612,
+            0.4017116408600609,
+            -1.4444808774733975,
+            0.40188658408806094,
             -0.15000000596046448,
             0.8499999940395355
           ]
         },
-        "geometricError": 150,
+        "geometricError": 56.756254089377435,
         "refine": "ADD",
         "content": {
-          "uri": "Batchedobject9/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447848277021011,
-            0.40172302795821,
-            -1.4447712004342603,
-            0.40172555421420997,
-            24.70800018310547,
-            25.70800018310547
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject89/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4448162166831575,
-            0.4018170136167454,
-            -1.4447990122575085,
-            0.4018547495657454,
-            8.483298301696777,
-            9.483298301696777
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject90/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447932272465889,
-            0.4018838192609186,
-            -1.4447843695224925,
-            0.4018844508249186,
-            1.968000054359436,
-            2.968000054359436
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject92/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4444952528584578,
-            0.4017922452177987,
-            -1.4444811145680727,
-            0.4018151394127987,
-            8.274839401245117,
-            9.274839401245117
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject94/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447762216866542,
-            0.401881689467061,
-            -1.4447675343034054,
-            0.40188658408806094,
-            1.968000054359436,
-            2.968000054359436
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject93/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4447996656152233,
-            0.4018449702304805,
-            -1.4447989842518314,
-            0.4018634434774805,
-            7.840000152587891,
-            8.84000015258789
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject91/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4445135031378218,
-            0.40178327360909977,
-            -1.4444934029177565,
-            0.40178927346709975,
-            10.920000076293945,
-            11.920000076293945
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject96/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444493619129199,
-            0.40177895192118884,
-            -1.444480502883902,
-            0.40178905694518885,
-            9.657999992370605,
-            10.657999992370605
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject95/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.4448041186699296,
-            0.40177862664684055,
-            -1.4448003711712734,
-            0.40178904745284055,
-            20.81800079345703,
-            21.81800079345703
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject97/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444767769088696,
-            0.4018818902037266,
-            -1.444767087725304,
-            0.4018855216967266,
-            2.0926990509033203,
-            3.0926990509033203
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject98/tileset.json"
-        }
-      },
-      {
-        "boundingVolume": {
-          "region": [
-            -1.444758026421853,
-            0.4017115623193108,
-            -1.4447559823316767,
-            0.4017118781013108,
-            24.830169677734375,
-            25.830169677734375
-          ]
-        },
-        "geometricError": 150,
-        "refine": "ADD",
-        "content": {
-          "uri": "Batchedobject99/tileset.json"
+          "uri": "BatchedobjectLOD8element0/tileset.json"
         }
       }
     ]

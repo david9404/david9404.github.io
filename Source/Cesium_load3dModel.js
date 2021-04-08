@@ -54,7 +54,7 @@ var viewer = new Cesium.Viewer('cesiumContainer', {
         viewer.camera.lookAtTransform(Cesium.Matrix4.IDENTITY);
         var cartographic = Cesium.Cartographic.fromCartesian(tileset.boundingSphere.center);
         var surface = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 27.0);
-        var offset = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 35);
+        var offset = Cesium.Cartesian3.fromRadians(cartographic.longitude, cartographic.latitude, 55);
         var translation = Cesium.Cartesian3.subtract(offset, surface, new Cesium.Cartesian3());
         tileset.modelMatrix = Cesium.Matrix4.fromTranslation(translation);
         viewer.zoomTo(tileset, new Cesium.HeadingPitchRange(0, -0.5, 0));
